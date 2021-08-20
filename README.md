@@ -14,7 +14,7 @@ For those who don't know me, I'm a Java and a C# student.. I love to interact wi
 - 🌍 I'm currently working on a Minecraft network called **[EdenMine](https://edenmine.eu)**
 - 📕 I'm currently studying **SpringBoot** and **Telegram Bot API**
 - 🐵 I love monkeys (really)
-- 🦦 I also love otters, so cute
+- 🦦 I also love otters
 - ❤ Red is my favourite color (couldn’t tell, huh?)
 
 <br />
