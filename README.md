@@ -1,4 +1,13 @@
-### 👋 Hi there, Welcome to my GitHub!
+<h1 align="center">👋 Hi there, Welcome to my GitHub!
+  <p align="center">
+    <a href="https://t.me/protocolsupport">
+      <img width="25px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png"/>
+    </a>
+    <a href="https://discordapp.com/users/461610631867400212">
+      <img width="25px" src="https://www.iconsdb.com/icons/preview/white/discord-2-xxl.png"/>
+    </a>
+  </p>
+</h1>
 
 For those who don't know me, I'm a Java and a C# student.. I love to interact with people, and I'm a pretty chill guy in general
 
@@ -9,10 +18,11 @@ For those who don't know me, I'm a Java and a C# student.. I love to interact wi
 - ❤ Red is my favourite color (couldn’t tell, huh?)
 
 ### Want to contact me?
-[<img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg"/>][telegram]
-<!--- Stuff for quick links [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"/>][discord]  ---> 
 
-### README Work in progress...
+
+<!--- GitHub Stats --->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImOnlyFire&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- Stuff for quick links --->
 [telegram]: https://t.me/protocolsupport
+[discord]: https://discordapp.com/users/461610631867400212
