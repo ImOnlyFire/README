@@ -24,5 +24,5 @@ For those who don't know me, I'm a Java student, I love to interact with people,
 <br />
 
 <!--- GitHub Stats --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImOnlyFire&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImOnlyFire&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
