@@ -14,7 +14,6 @@
 
 For those who don't know me, I'm a Java student, I love to interact with people, and I'm a pretty chill guy in general
 
-- 🌍 I'm currently working on a Minecraft network called **[EdenMine](https://edenmine.eu)**
 - 📕 I'm currently studying **Telegram Bot API** and **Discord Bot API**
 - 🐵 I love monkeys (really)
 - 🦦 I also love otters
