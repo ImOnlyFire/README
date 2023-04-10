@@ -14,7 +14,7 @@
 
 For those who don't know me, I'm a Java student, I love to interact with people, and I'm a pretty chill guy in general
 
-- 📕 I'm currently studying **Telegram Bot API** and **Minestom**
+- 📕 I'm currently studying **Telegram Bot API** and **TypeScript**
 - 🐵 I love monkeys (really)
 - 💜 Purple is my favourite color (strange, huh?)
 - 🐧 Proud Fedora Linux user
