@@ -22,5 +22,5 @@ For those who don't know me, I'm a Java student, I love to interact with people,
 <br />
 
 <!--- GitHub Stats --->
-[![Stats](https://github-readme-stats.vercel.app/api?username=ImOnlyFire&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats-axkjyzl4y-firo-duckcom.vercel.app/api?username=ImOnlyFire&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
