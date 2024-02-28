@@ -17,7 +17,7 @@
 
 For those who don't know me, I'm a Java student, I love to interact with people, and I'm a pretty chill guy in general
 
-- 🐙 I'm currently working on OctoGram, a third party telegram client
+- 📚 I'm currently working on Teleight, a java telegram bot api wrapper
 - 💜 Purple is my favourite color (strange, huh?)
 - 🐧 Proud Fedora Linux user
 
